@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1729644306 source:c:\users\trx\desktop\profitsystem\profitsystemv2\inicio.cpp
+	"Inicio.h"
+
+1729643885 c:\users\trx\desktop\profitsystem\profitsystemv2\inicio.h
+	<iostream>
+	<vector>
+	"Usuario.h"
+	"BaseDatos.h"
+	"Membresias.h"
+	"Actividades.h"
+	"Autenticacion.h"
+
+1729635618 source:c:\users\trx\desktop\profitsystem\profitsystemv2\main.cpp
+	<iostream>
+	"Inicio.h"
+
+1729644234 source:c:\users\trx\desktop\profitsystem\profitsystemv2\administrador.cpp
+	"Administrador.h"
+
+1729640754 c:\users\trx\desktop\profitsystem\profitsystemv2\administrador.h
+	<iostream>
+	<vector>
+	"Usuario.h"
+
+1729640908 source:c:\users\trx\desktop\profitsystem\profitsystemv2\usuario.cpp
+	"Usuario.h"
+
+1729635007 c:\users\trx\desktop\profitsystem\profitsystemv2\usuario.h
+	<iostream>
+	<vector>
+
+1729640751 source:c:\users\trx\desktop\profitsystem\profitsystemv2\cliente.cpp
+	"Cliente.h"
+
+1729640754 c:\users\trx\desktop\profitsystem\profitsystemv2\cliente.h
+	<iostream>
+	<vector>
+	"Usuario.h"
+	"Actividades.h"
+
+1729644249 source:c:\users\trx\desktop\profitsystem\profitsystemv2\entrenador.cpp
+	"Entrenador.h"
+
+1729640841 c:\users\trx\desktop\profitsystem\profitsystemv2\entrenador.h
+	<iostream>
+	<vector>
+	"Usuario.h"
+	"Cliente.h"
+
+1729640552 source:c:\users\trx\desktop\profitsystem\profitsystemv2\membresias.cpp
+	"Membresias.h"
+
+1729640552 c:\users\trx\desktop\profitsystem\profitsystemv2\membresias.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<ctime>
+	<iomanip>
+	<sstream>
+
+1729636264 c:\users\trx\desktop\profitsystem\profitsystemv2\actividades.h
+
+1729639033 c:\users\trx\desktop\profitsystem\profitsystemv2\basedatos.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"Usuario.h"
+	"Membresias.h"
+	"Administrador.h"
+	"Cliente.h"
+	"Entrenador.h"
+
+1729636264 source:c:\users\trx\desktop\profitsystem\profitsystemv2\actividades.cpp
+	"Actividades.h"
+
+1729640621 source:c:\users\trx\desktop\profitsystem\profitsystemv2\basedatos.cpp
+	"BaseDatos.h"
+
+1729641729 source:c:\users\trx\desktop\profitsystem\profitsystemv2\autenticacion.cpp
+	"Autenticacion.h"
+
+1729641555 c:\users\trx\desktop\profitsystem\profitsystemv2\autenticacion.h
+	<iostream>
+	"Usuario.h"
+

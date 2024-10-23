@@ -1,0 +1,6 @@
+20001,admin,admin@gmail.com,1234,Administrador,true
+20002,kratos,kratos@gmail.com,5678,Cliente,Plan Básico,true
+20003,thor,thor@gmail.com,123456,Cliente,Plan Básico,true
+20005,prueba5,prueba5@gmail.com,prueba5,Cliente,null,false
+20006,prueba6,prueba6@gmail.com,prueba6,Cliente,null,false
+20007,prueba,prueba@gmail.com,preuba,Cliente,Plan Básico,true
